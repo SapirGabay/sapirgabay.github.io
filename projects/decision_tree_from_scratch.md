@@ -27,4 +27,4 @@ The final model provides a highly **interpretable decision path** for the bank, 
 
 ---
 
-[**View Code and Full Documentation on GitHub**](Link to the GitHub repo for this code)
+[**View Code and Full Documentation on GitHub**](https://github.com/SapirGabay/AI_Projects)
