@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Machine Learning: Twitter Sentiment Classification
+title: "Machine Learning: Twitter Sentiment Classification"
 ---
 
 # 🌟 Project: Twitter Sentiment Classification
