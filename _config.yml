@@ -1,0 +1,15 @@
+# FILE: _config.yml - Site Configuration
+
+# 1. Site Identity (מידע אישי)
+title: Sapir Gabay
+description:  Final-year Industrial Engineering & Management student at Ben-Gurion University
+email: sapirgabay4@gmail.com
+
+# 2. External Links (קישורים)
+github_username: sapirgabay
+linkedin_url: https://www.linkedin.com/in/sapirgabay/
+
+# 3. Theme & Styling (בחירת תבנית)
+# This uses the clean, built-in minimal theme.
+theme: jekyll-theme-minimal
+
