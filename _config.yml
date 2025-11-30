@@ -10,6 +10,4 @@ github_username: sapirgabay
 linkedin_url: https://www.linkedin.com/in/sapirgabay/
 
 # 3. Theme & Styling (בחירת תבנית)
-remote_theme: "mmistakes/minimal-mistakes"
-plugins:
-  - jekyll-include-cache
+theme: jekyll-theme-minimal
