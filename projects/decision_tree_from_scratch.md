@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Decision Tree from Scratch: Bank Customer Deposit Prediction
+title: "Decision Tree from Scratch: Bank Customer Deposit Prediction"
 ---
 
-# 🧠 Project: Decision Tree Implementation and Statistical Pruning
+## 🧠 Project: Decision Tree Implementation and Statistical Pruning
 
 ## Project Summary
 
