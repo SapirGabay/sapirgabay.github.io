@@ -38,4 +38,4 @@ This project successfully validated core ML competencies, from raw data preproce
 
 [**View Code and Full Documentation on GitHub**](https://github.com/SapirGabay/ML_Project) 
 
-*הערה: הקישור הזה הוא בהנחה ששם המאגר שלך הוא ML_Project ושם המשתמש הוא SapirGabay. אם לא, יש לשנות את הקישור בהתאם למאגר שלך!*
+
