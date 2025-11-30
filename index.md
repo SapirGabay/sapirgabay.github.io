@@ -33,7 +33,7 @@ A final-year Industrial Engineering student at Ben-Gurion University, specializi
 
 ## 🌟 Selected Academic Projects
 
+* [**Core ML Implementation: Decision Tree from Scratch**](projects/decision_tree_from_scratch.html) – *Implemented core ML algorithms (DT, K-Means, Chi-Squared Pruning) from scratch.*
 * [**Machine Learning: Sentiment Classification**](projects/ml_sentiment_analysis.html) – *Demonstrates core ML workflow on text data.*
-* [**Databases & BI: SQL-based Systems**](projects/bi_dashboard.html) – *Designed and built actionable Power BI dashboards.*
 
 [**Download Full Resume (PDF)**](https://drive.google.com/file/d/1yHBrlU0xIbWNlJ9Sc5C5NLtd09DvTyqd/view?usp=sharing)
