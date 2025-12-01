@@ -2,6 +2,7 @@
 layout: default
 title: "Sapir Gabay"
 ---
+
 <!-- Top Navigation Bar -->
 <style>
 .top-nav {
@@ -118,19 +119,6 @@ table {
 }
 </style>
 
-<div class="hero">
-  <h1>Sapir Gabay</h1>
-  <h2>B.Sc. Industrial Engineering &amp; Management | Solution Designer & Rapid Learner</h2>
-
-  <div class="button-row">
-    <a class="btn btn-primary" href="https://drive.google.com/file/d/1yHBrlU0xIbWNlJ9Sc5C5NLtd09DvTyqd/view?usp=sharing" target="_blank">Resume (PDF)</a>
-    <a class="btn" href="mailto:sapirgabay4@gmail.com">Email</a>
-    <a class="btn" href="https://github.com/sapirgabay" target="_blank">GitHub</a>
-    <a class="btn" href="https://www.linkedin.com/in/sapirgabay/" target="_blank">LinkedIn</a>
-  </div>
-</div>
-
----
 
 ## About Me {#about}
 
