@@ -117,9 +117,30 @@ table {
 .project-item {
   margin-bottom: 20px;
 }
-</style>
+  .project-hero {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  align-items: flex-start;
+  margin-bottom: 30px;
+}
 
-{#about}
+.project-hero-text {
+  flex: 1 1 260px;
+}
+
+.project-hero-image {
+  flex: 1 1 260px;
+}
+
+.project-hero-image img {
+  width: 100%;
+  max-width: 520px;
+  border-radius: 6px;
+  border: 1px solid #e0e0e0;
+}
+
+</style>
 
 ## 📌 About Me <a id="about"></a> 
 
@@ -155,9 +176,28 @@ Led a 150+ member branch, managing education programs, logistics, and budgeting 
 ---
 ## 🚀 Projects <a id="projects"></a>
 
-### Interactive Portfolio Optimization  
-[Live App Link](https://markowitz-portfolio-optimizer.streamlit.app/)  
-An interactive web application demonstrating Modern Portfolio Theory (Markowitz Model). Built in Python and deployed with Streamlit. Analyzes risk, return, and optimal asset allocation for investors.
+<div class="project-hero">
+  <div class="project-hero-text">
+    <h3>Interactive Portfolio Optimization</h3>
+    <p>
+      An interactive web application demonstrating Modern Portfolio Theory (Markowitz Model).
+      Built in Python and deployed with Streamlit. Analyzes risk, return, and optimal asset
+      allocation for investors.
+    </p>
+    <p>
+      <a href="https://markowitz-portfolio-optimizer.streamlit.app/" target="_blank">
+        Open live app
+      </a>
+    </p>
+  </div>
+
+  <div class="project-hero-image">
+    <a href="https://markowitz-portfolio-optimizer.streamlit.app/" target="_blank">
+      <img src="markowitz_app.png" alt="Interactive Portfolio Optimization screenshot">
+    </a>
+  </div>
+</div>
+
 
 ### Core ML Implementation: Decision Tree from Scratch  
 [Project Link](projects/decision_tree_from_scratch.html)  
