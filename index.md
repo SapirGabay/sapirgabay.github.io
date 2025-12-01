@@ -119,8 +119,8 @@ table {
 }
 </style>
 
-
-## About Me {#about}
+{#about}
+## About Me 
 
 I'm Sapir, a final-year Industrial Engineering and Management student at Ben-Gurion University, specializing in Intelligent Systems (GPA 87).
 
@@ -131,21 +131,21 @@ My experience includes working with startups and investors at the university's e
 I am a rapid self-learner and enjoy building practical solutions — from core coding projects and data analysis to automation workflows.
 
 ---
+{#experience}
+## Relevant Experience Highlights 
 
-## Relevant Experience Highlights {#experience}
-
-### Business & Market Analyst – Oazis, BGU Innovation Accelerator  
+### Business & Market Analyst - Oazis, BGU Innovation Accelerator  
 Identified and evaluated deep-tech research projects to assess commercial viability, market potential, and competitive landscape. Built relationships with early-stage investors, prepared one-pagers, and connected alumni ventures with follow-on funding and collaborations.
 
-### Investment Analyst Intern – Cactus Capital (BGU Venture Capital)  
+### Investment Analyst Intern - Cactus Capital
 Prepared detailed analysis reports with market insights, competitive positioning, and business viability assessments to support investment committee decisions.
 
-### Branch Manager – Scouts Movement  
+### Branch Manager - Scouts Movement  
 Led a 150+ member branch, managing education programs, logistics, and budgeting using SAP. Built partnerships with local organizations to support community activities.
 
 ---
-
-## Technical Skillset {#skills}
+{#skills}
+## Technical Skillset 
 
 | Category | Skills |
 | :--- | :--- |
@@ -154,8 +154,8 @@ Led a 150+ member branch, managing education programs, logistics, and budgeting 
 | **Automation** | N8N, Airtable, Notion |
 
 ---
-
-## Projects & Practical Applications {#projects}
+{#projects}
+## Projects & Practical Applications 
 
 ### Interactive Portfolio Optimization  
 [Live App Link](https://markowitz-portfolio-optimizer.streamlit.app/)  
