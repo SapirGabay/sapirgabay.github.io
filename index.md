@@ -120,6 +120,7 @@ table {
 </style>
 
 {#about}
+
 ## About Me 
 
 I'm Sapir, a final-year Industrial Engineering and Management student at Ben-Gurion University, specializing in Intelligent Systems (GPA 87).
@@ -132,7 +133,7 @@ I am a rapid self-learner and enjoy building practical solutions — from core c
 
 ---
 {#experience}
-## Relevant Experience Highlights 
+## 💼 Experience
 
 ### Business & Market Analyst - Oazis, BGU Innovation Accelerator  
 Identified and evaluated deep-tech research projects to assess commercial viability, market potential, and competitive landscape. Built relationships with early-stage investors, prepared one-pagers, and connected alumni ventures with follow-on funding and collaborations.
@@ -145,7 +146,7 @@ Led a 150+ member branch, managing education programs, logistics, and budgeting 
 
 ---
 {#skills}
-## Technical Skillset 
+## 💻 Technical Skillset
 
 | Category | Skills |
 | :--- | :--- |
@@ -155,7 +156,7 @@ Led a 150+ member branch, managing education programs, logistics, and budgeting 
 
 ---
 {#projects}
-## Projects & Practical Applications 
+## 🚀 Projects 
 
 ### Interactive Portfolio Optimization  
 [Live App Link](https://markowitz-portfolio-optimizer.streamlit.app/)  
