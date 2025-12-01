@@ -2,6 +2,46 @@
 layout: default
 title: "Sapir Gabay"
 ---
+<!-- Top Navigation Bar -->
+<style>
+.top-nav {
+  position: sticky;
+  top: 0;
+  background: white;
+  padding: 10px 0;
+  border-bottom: 1px solid #e5e5e5;
+  z-index: 1000;
+}
+
+.top-nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 25px;
+  margin: 0;
+  padding: 0;
+}
+
+.top-nav a {
+  text-decoration: none;
+  color: #333;
+  font-size: 0.95rem;
+}
+
+.top-nav a:hover {
+  text-decoration: underline;
+}
+</style>
+
+<nav class="top-nav">
+  <ul>
+    <li><a href="#about">About</a></li>
+    <li><a href="#experience">Experience</a></li>
+    <li><a href="#skills">Skills</a></li>
+    <li><a href="#projects">Projects</a></li>
+    <li><a href="#resume">Resume</a></li>
+  </ul>
+</nav>
 
 <style>
 /* Container width */
@@ -92,7 +132,8 @@ table {
 
 ---
 
-## About Me
+## About Me {#about}
+
 I'm Sapir, a final-year Industrial Engineering and Management student at Ben-Gurion University, specializing in Intelligent Systems (GPA 87).
 
 I am driven by continuous self-learning and hands-on problem-solving. I enjoy taking on a business challenge, figuring out the right technical solution, and connecting data-driven insights with strategic understanding.
@@ -103,7 +144,7 @@ I am a rapid self-learner and enjoy building practical solutions — from core c
 
 ---
 
-## Relevant Experience Highlights
+## Relevant Experience Highlights {#experience}
 
 ### Business & Market Analyst – Oazis, BGU Innovation Accelerator  
 Identified and evaluated deep-tech research projects to assess commercial viability, market potential, and competitive landscape. Built relationships with early-stage investors, prepared one-pagers, and connected alumni ventures with follow-on funding and collaborations.
@@ -116,7 +157,7 @@ Led a 150+ member branch, managing education programs, logistics, and budgeting 
 
 ---
 
-## Technical Skillset
+## Technical Skillset {#skills}
 
 | Category | Skills |
 | :--- | :--- |
@@ -126,7 +167,7 @@ Led a 150+ member branch, managing education programs, logistics, and budgeting 
 
 ---
 
-## Projects & Practical Applications
+## Projects & Practical Applications {#projects}
 
 ### Interactive Portfolio Optimization  
 [Live App Link](https://markowitz-portfolio-optimizer.streamlit.app/)  
