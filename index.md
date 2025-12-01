@@ -121,7 +121,7 @@ table {
 
 {#about}
 
-## About Me 
+## 📌 About Me <a id="about"></a> 
 
 I'm Sapir, a final-year Industrial Engineering and Management student at Ben-Gurion University, specializing in Intelligent Systems (GPA 87).
 
@@ -132,8 +132,7 @@ My experience includes working with startups and investors at the university's e
 I am a rapid self-learner and enjoy building practical solutions — from core coding projects and data analysis to automation workflows.
 
 ---
-{#experience}
-## 💼 Experience
+## 💼 Experience <a id="experience"></a>
 
 ### Business & Market Analyst - Oazis, BGU Innovation Accelerator  
 Identified and evaluated deep-tech research projects to assess commercial viability, market potential, and competitive landscape. Built relationships with early-stage investors, prepared one-pagers, and connected alumni ventures with follow-on funding and collaborations.
@@ -145,8 +144,7 @@ Prepared detailed analysis reports with market insights, competitive positioning
 Led a 150+ member branch, managing education programs, logistics, and budgeting using SAP. Built partnerships with local organizations to support community activities.
 
 ---
-{#skills}
-## 💻 Technical Skillset
+## 💻 Technical Skillset <a id="skills"></a>
 
 | Category | Skills |
 | :--- | :--- |
@@ -155,8 +153,7 @@ Led a 150+ member branch, managing education programs, logistics, and budgeting 
 | **Automation** | N8N, Airtable, Notion |
 
 ---
-{#projects}
-## 🚀 Projects 
+## 🚀 Projects <a id="projects"></a>
 
 ### Interactive Portfolio Optimization  
 [Live App Link](https://markowitz-portfolio-optimizer.streamlit.app/)  
@@ -171,5 +168,5 @@ Implemented core ML algorithms (Decision Tree, K-Means, Chi-Squared Pruning) fro
 Demonstrates a full ML workflow on text data.
 
 ---
-
+## 📄 Resume <a id="resume"></a>
 [Download Full Resume (PDF)](https://drive.google.com/file/d/1yHBrlU0xIbWNlJ9Sc5C5NLtd09DvTyqd/view?usp=sharing)
