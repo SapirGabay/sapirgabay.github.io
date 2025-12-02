@@ -15,17 +15,8 @@ Build a sentiment classification system that accurately processes and categorize
 - **Data Processing**: Cleaned and transformed raw Twitter text with custom preprocessing pipeline
 - **Feature Engineering**: Integrated sentiment lexicons (positive/negative word lists) to enhance text representation
 - **EDA & Insights**: Explored patterns in sentiment distribution and text characteristics
-- **Model Comparison**: Trained and evaluated multiple classifiers (SVM, MLP, Decision Trees) to identify optimal approach
+- **Model Comparison**: Trained and evaluated multiple classifiers (**SVM, MLP, Decision Trees**) to identify optimal approach
 - **Validation**: Tested final models on separate test dataset for real-world performance assessment
-
-### Project Structure
-
-| File | Contents |
-| --- | --- |
-| `ML_Part1.ipynb` | Data preprocessing, feature engineering, EDA, initial models |
-| `ML_Part2.ipynb` | Advanced techniques, model improvements, final evaluation |
-| `ML Project Part 1.docx` | Analysis report with visualizations and insights |
-| `ML Project Part 2.docx` | Final results, comparisons, and conclusions |
 
 `Python` • `scikit-learn` • `pandas` • `matplotlib` • `NLP` • `SVM` • `Neural Networks`
 
