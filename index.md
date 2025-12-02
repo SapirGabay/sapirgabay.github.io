@@ -196,9 +196,27 @@ Led a 150+ member branch, managing education programs, logistics, and budgeting 
   </div>
 </div>
 
-### Machine Learning: Sentiment Classification  
-[Project Link](projects/ml_sentiment_analysis.html)  
-Demonstrates a full ML workflow on text data.
+<div class="project-hero">
+  <div class="project-hero-text">
+    <h3>Machine Learning: Sentiment Classification</h3>
+    <p>
+      Demonstrates a full ML workflow on Twitter text data, including preprocessing,
+      feature engineering, model comparison and evaluation.
+    </p>
+    <p>
+      <a href="projects/ml_sentiment_analysis.html">
+        Project Link
+      </a>
+    </p>
+  </div>
+
+  <div class="project-hero-image">
+    <a href="projects/ml_sentiment_analysis.html">
+      <img src="ROC_curve.png" alt="ROC curve for sentiment classification model">
+    </a>
+  </div>
+</div>
+
 
 ### Core ML Implementation: Decision Tree from Scratch  
 [Project Link](projects/decision_tree_from_scratch.html)  
