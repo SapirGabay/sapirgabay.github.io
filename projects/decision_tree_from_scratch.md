@@ -23,7 +23,7 @@ Build an accurate, interpretable model while addressing Information Gain's bias 
 ✅ Production-ready model with built-in overfitting safeguards  
 ✅ Demonstrated mastery of core ML algorithms without external libraries  
 
-### Tech Stack
+
 `Python` • `Decision Trees` • `Statistical Methods` • `K-Means` • `Cross-Validation`
 
 ---
