@@ -3,28 +3,29 @@ layout: default
 title: "Decision Tree from Scratch: Bank Customer Deposit Prediction"
 ---
 
-## 🧠 Project: Decision Tree Implementation and Statistical Pruning
+## 🌳 Decision Tree from Scratch: Bank Customer Deposit Prediction
 
-## Project Summary
+### Overview
+A machine learning project implementing a complete Decision Tree Classifier from scratch in Python, predicting bank customer subscription to term deposits with statistical validation.
 
-This project demonstrates deep expertise in core Machine Learning architecture by implementing a complex classification model from scratch (without scikit-learn), validated through advanced statistical methods.
+### The Challenge
+Build an accurate, interpretable model while addressing Information Gain's bias toward high-cardinality features—a common pitfall in traditional decision trees.
 
-## 🎯 The Challenge (Challenge)
+### Technical Implementation
+- **Custom Algorithm**: Built Decision Tree Classifier from ground up with recursive splitting logic
+- **Modified Gain Ratio**: Implemented custom splitting criterion for unbiased feature selection
+- **Feature Engineering**: Designed K-Means Clustering algorithm to discretize continuous variables (Age, Balance, Duration)
+- **Statistical Pruning**: Applied Chi-Squared (χ²) pruning to prevent overfitting
+- **Validation**: K-Fold Cross-Validation for robust performance evaluation
 
-To build an accurate and interpretable non-parametric model capable of predicting bank customer subscription to a term deposit (the 'y' variable) while overcoming the inherent bias of high-cardinality features in standard Information Gain metrics.
+### Key Results
+✅ Interpretable decision paths for actionable business insights  
+✅ Production-ready model with built-in overfitting safeguards  
+✅ Demonstrated mastery of core ML algorithms without external libraries  
 
-## ⚙️ The Action (Action)
-
-* **Model Implementation:** Developed the **Decision Tree Classifier entirely from scratch** in Python, including the recursive build logic.
-* **Feature Selection:** Used a **Modified Gain Ratio** criterion for node splitting to ensure fair feature selection and minimize bias towards features with many unique values.
-* **Data Preprocessing:** Implemented **K-Means Clustering (custom)** to effectively categorize continuous numerical features (Age, Balance, Duration) into discrete, actionable groups.
-* **Statistical Validation:** Applied **Chi-Squared Pruning ($\chi^2$)** to post-prune the tree, enhancing generalizability and preventing overfitting.
-* **Evaluation:** Validated model stability and performance using **K-Fold Cross-Validation** (as defined in `tree_error` function).
-
-## ✅ The Result (Result)
-
-The final model provides a highly **interpretable decision path** for the bank, enabling clear identification of customer segments most likely to subscribe. The custom implementation and rigorous validation process (Modified Gain Ratio, $\chi^2$ Pruning) showcase strong command of core AI algorithms and data structure methodologies.
+### Tech Stack
+`Python` • `Decision Trees` • `Statistical Methods` • `K-Means` • `Cross-Validation`
 
 ---
 
-[**View Code and Full Documentation on GitHub**](https://github.com/SapirGabay/AI_Projects)
+[**📁 View Full Code & Documentation**](https://github.com/SapirGabay/bank-deposit-decision-tree)
