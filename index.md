@@ -150,8 +150,6 @@ I am driven by continuous self-learning and hands-on problem-solving. I enjoy ta
 
 My experience includes working with startups and investors at the university's entrepreneurship center, where I performed detailed analysis and due diligence on potential ventures.
 
-I am a rapid self-learner and enjoy building practical solutions — from core coding projects and data analysis to automation workflows.
-
 ---
 ## 💼 Experience <a id="experience"></a>
 
