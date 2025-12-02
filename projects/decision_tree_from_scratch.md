@@ -9,7 +9,7 @@ title: "Decision Tree from Scratch: Bank Customer Deposit Prediction"
 A machine learning project implementing a complete Decision Tree Classifier from scratch in Python, predicting bank customer subscription to term deposits with statistical validation.
 
 ### The Challenge
-Build an accurate, interpretable model while addressing Information Gain's bias toward high-cardinality features—a common pitfall in traditional decision trees.
+Build an accurate, interpretable model while addressing Information Gain's bias toward high-cardinality features - a common pitfall in traditional decision trees.
 
 ### Technical Implementation
 - **Custom Algorithm**: Built Decision Tree Classifier from ground up with recursive splitting logic
