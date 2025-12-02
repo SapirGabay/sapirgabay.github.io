@@ -18,11 +18,6 @@ Build an accurate, interpretable model while addressing Information Gain's bias 
 - **Statistical Pruning**: Applied Chi-Squared (χ²) pruning to prevent overfitting
 - **Validation**: K-Fold Cross-Validation for robust performance evaluation
 
-### Key Results
-✅ Interpretable decision paths for actionable business insights  
-✅ Production-ready model with built-in overfitting safeguards  
-✅ Demonstrated mastery of core ML algorithms without external libraries  
-
 
 `Python` • `Decision Trees` • `Statistical Methods` • `K-Means` • `Cross-Validation`
 
