@@ -26,7 +26,7 @@ Build a sentiment classification system that accurately processes and categorize
 | `ML Project Part 1.docx` | Analysis report with visualizations and insights |
 | `ML Project Part 2.docx` | Final results, comparisons, and conclusions |
 
-### Tech Stack
+
 `Python` • `scikit-learn` • `pandas` • `matplotlib` • `NLP` • `SVM` • `Neural Networks`
 
 ---
