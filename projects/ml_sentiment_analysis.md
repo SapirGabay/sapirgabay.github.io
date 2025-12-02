@@ -19,13 +19,13 @@ Build a sentiment classification system that accurately processes and categorize
 - **Validation**: Tested final models on separate test dataset for real-world performance assessment
 
 ### Project Structure
+
 | File | Contents |
-|------|----------|
+| --- | --- |
 | `ML_Part1.ipynb` | Data preprocessing, feature engineering, EDA, initial models |
 | `ML_Part2.ipynb` | Advanced techniques, model improvements, final evaluation |
 | `ML Project Part 1.docx` | Analysis report with visualizations and insights |
 | `ML Project Part 2.docx` | Final results, comparisons, and conclusions |
-
 
 `Python` • `scikit-learn` • `pandas` • `matplotlib` • `NLP` • `SVM` • `Neural Networks`
 
