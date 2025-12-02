@@ -196,14 +196,14 @@ Led a 150+ member branch, managing education programs, logistics, and budgeting 
   </div>
 </div>
 
+### Machine Learning: Sentiment Classification  
+[Project Link](projects/ml_sentiment_analysis.html)  
+Demonstrates a full ML workflow on text data.
 
 ### Core ML Implementation: Decision Tree from Scratch  
 [Project Link](projects/decision_tree_from_scratch.html)  
 Implemented core ML algorithms (Decision Tree, K-Means, Chi-Squared Pruning) from scratch.
 
-### Machine Learning: Sentiment Classification  
-[Project Link](projects/ml_sentiment_analysis.html)  
-Demonstrates a full ML workflow on text data.
 
 ---
 ## 📄 Resume <a id="resume"></a>
