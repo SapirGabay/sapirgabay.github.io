@@ -3,39 +3,32 @@ layout: default
 title: "Machine Learning: Twitter Sentiment Classification"
 ---
 
-# 🌟 Project: Twitter Sentiment Classification
+## ⭐ Twitter Sentiment Classification with Machine Learning
 
-## Project Summary
+### Overview
+A complete machine learning pipeline for analyzing sentiment in social media text, demonstrating end-to-end ML workflow from raw data to model comparison and evaluation.
 
-This project demonstrates foundational Machine Learning workflow, advanced text analytics, and comparative model analysis, essential for my specialization in Intelligent Systems.
+### The Challenge
+Build a sentiment classification system that accurately processes and categorizes unstructured Twitter text data while handling the complexities of social media language (slang, abbreviations, emojis).
 
-## 🎯 The Challenge (Challenge)
+### What I Built
+- **Data Processing**: Cleaned and transformed raw Twitter text with custom preprocessing pipeline
+- **Feature Engineering**: Integrated sentiment lexicons (positive/negative word lists) to enhance text representation
+- **EDA & Insights**: Explored patterns in sentiment distribution and text characteristics
+- **Model Comparison**: Trained and evaluated multiple classifiers (SVM, MLP, Decision Trees) to identify optimal approach
+- **Validation**: Tested final models on separate test dataset for real-world performance assessment
 
-The goal was to build a robust sentiment classification system capable of processing and categorizing large volumes of unstructured social media text data (Twitter). This required mastering text preprocessing techniques and optimizing model performance.
+### Project Structure
+| File | Contents |
+|------|----------|
+| `ML_Part1.ipynb` | Data preprocessing, feature engineering, EDA, initial models |
+| `ML_Part2.ipynb` | Advanced techniques, model improvements, final evaluation |
+| `ML Project Part 1.docx` | Analysis report with visualizations and insights |
+| `ML Project Part 2.docx` | Final results, comparisons, and conclusions |
 
-## ⚙️ The Action (Action)
-
-* **Modeling & Process:** The project was executed in two stages, covering **preprocessing, feature engineering, Exploratory Data Analysis (EDA), modeling, improvements, and evaluation.**
-* **Data & Lexicon:** Used the `sentiment.csv` dataset and a separate `test.csv` for final evaluation, alongside **positive/negative lexicon files** for deeper sentiment analysis.
-* **Tools:** Developed and tested multiple classification models (SVM, MLP, and Decision Trees), utilizing key Python libraries: **scikit-learn, pandas, and matplotlib.**
-
----
-
-### Project Repository Breakdown
-
-| File Name | Description |
-| :--- | :--- |
-| **ML_Part1.ipynb** | Python code (Jupyter Notebook) for **preprocessing, feature engineering, EDA, and initial modeling.** |
-| **ML_Part2.ipynb** | Python code (Jupyter Notebook) for **continued modeling, advanced methods, improvements, and evaluation.** |
-| **ML Project Part 1.docx** | Final report with **explanations, graphs, and insights.** |
-| **ML Project Part 2.docx** | Final report including **advanced methods, results, and conclusions.** |
-
-## ✅ The Result (Result)
-
-This project successfully validated core ML competencies, from raw data preprocessing to model training and comparative performance analysis. The ability to accurately classify sentiment is a critical skill for real-world applications and demonstrates foundational skills for my focus on Intelligent Systems.
+### Tech Stack
+`Python` • `scikit-learn` • `pandas` • `matplotlib` • `NLP` • `SVM` • `Neural Networks`
 
 ---
 
-[**View Code and Full Documentation on GitHub**](https://github.com/SapirGabay/ML_Project) 
-
-
+[**📁 View Full Project**](https://github.com/SapirGabay/ML_Project)
