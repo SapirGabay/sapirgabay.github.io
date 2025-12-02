@@ -9,7 +9,7 @@ title: "Machine Learning: Twitter Sentiment Classification"
 A complete machine learning pipeline for analyzing sentiment in social media text, demonstrating end-to-end ML workflow from raw data to model comparison and evaluation.
 
 ### The Challenge
-Build a sentiment classification system that accurately processes and categorizes unstructured Twitter text data while handling the complexities of social media language (slang, abbreviations, emojis).
+Build a sentiment classification system that accurately processes and categorizes unstructured Twitter text data while handling the complexities of social media language.
 
 ### What I Built
 - **Data Processing**: Cleaned and transformed raw Twitter text with custom preprocessing pipeline
