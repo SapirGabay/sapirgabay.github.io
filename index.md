@@ -168,7 +168,7 @@ Led a 150+ member branch, managing education programs, logistics, and budgeting 
 | Category | Skills |
 | :--- | :--- |
 | **Programming & Data** | Python (Pandas, Scikit-learn), SQL, Java, Streamlit (App Dev), Power BI, Tableau, Excel (Pivot Tables, Power Query, VBA) |
-| **Machine Learning** | Sentiment Classification, Decision Trees, MLP, A* Search, Genetic Algorithms |
+| **Machine Learning** | Sentiment Classification, Decision Trees, MLP, SVM |
 | **Automation** | N8N, Airtable, Notion |
 
 ---
