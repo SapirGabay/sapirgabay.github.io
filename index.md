@@ -144,11 +144,11 @@ table {
 
 ## 📌 About Me <a id="about"></a> 
 
-**Sapir Gabay** Industrial Engineering & Management graduate, Ben-Gurion University (Intelligent Systems, GPA 87)
+**Sapir Gabay** - Industrial Engineering & Management graduate, Ben-Gurion University (Intelligent Systems, GPA 87)
 
 - Building ETL pipelines and Power BI dashboards with large-scale datasets (millions of rows) for tech and SaaS companies, analyzing ARR, Churn, Cohort retention, and other key metrics
 - Evaluated deep-tech startups and built an early-stage investor community at BGU's entrepreneurship center
-- Hands-on builder - SQL, Python, Python, and independent AI/automation projects (n8n, Claude Code)
+- Hands-on builder - SQL, Python, and independent AI/automation projects (n8n, Claude Code)
 
 *A few projects I've worked on:*
 
@@ -161,6 +161,20 @@ table {
 
 ---
 ## 🚀 Projects <a id="projects"></a>
+
+<div class="project-hero">
+  <div class="project-hero-text">
+    <h3>A/B Testing for LLM Impact (Final Thesis)</h3>
+    <p>
+      Built a Python-based A/B testing environment using the OpenAI API to evaluate
+      LLM impact on user decision-making within BI dashboards.
+    </p>
+  </div>
+
+  <div class="project-hero-image">
+    <img src="thesis_screenshot.png" alt="A/B testing dashboard with AI assistant">
+  </div>
+</div>
 
 <div class="project-hero">
   <div class="project-hero-text">
@@ -209,7 +223,6 @@ table {
 ### Core ML Implementation: Decision Tree from Scratch  
 [Project Link](projects/decision_tree_from_scratch.html)  
 Implemented core ML algorithms (Decision Tree, K-Means, Chi-Squared Pruning) from scratch.
-
 
 ---
 ## 📄 Resume <a id="resume"></a>
