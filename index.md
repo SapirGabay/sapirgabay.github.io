@@ -144,7 +144,7 @@ table {
 
 ## 📌 About Me <a id="about"></a> 
 
-**Sapir Gabay** — Industrial Engineering & Management graduate, Ben-Gurion University (Intelligent Systems, GPA 87)
+**Sapir Gabay** Industrial Engineering & Management graduate, Ben-Gurion University (Intelligent Systems, GPA 87)
 
 - Building ETL pipelines and Power BI dashboards with large-scale datasets (millions of rows) for tech and SaaS companies, analyzing ARR, Churn, Cohort retention, and other key metrics
 - Evaluated deep-tech startups and built an early-stage investor community at BGU's entrepreneurship center
