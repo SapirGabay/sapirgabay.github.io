@@ -144,32 +144,22 @@ table {
 
 ## 📌 About Me <a id="about"></a> 
 
-I'm Sapir, a final-year Industrial Engineering and Management student at Ben-Gurion University, specializing in Intelligent Systems (GPA 87).
+**Sapir Gabay** — Industrial Engineering & Management graduate, Ben-Gurion University (Intelligent Systems, GPA 87)
 
-I am driven by continuous self-learning and hands-on problem-solving. I enjoy taking on a business challenge, figuring out the right technical solution, and connecting data-driven insights with strategic understanding.
+- Building ETL pipelines and Power BI dashboards with large-scale datasets (millions of rows) for tech and SaaS companies, analyzing ARR, Churn, Cohort retention, and other key metrics
+- Evaluated deep-tech startups and built an early-stage investor community at BGU's entrepreneurship center
+- Hands-on builder - SQL, Python, Python, and independent AI/automation projects (n8n, Claude Code)
 
-My experience includes working with startups and investors at the university's entrepreneurship center, where I performed detailed analysis and due diligence on potential ventures.
-
----
-## 💼 Experience <a id="experience"></a>
-
-### Business & Market Analyst - Oazis, BGU Innovation Accelerator  
-Identified and evaluated deep-tech research projects to assess commercial viability, market potential, and competitive landscape. Built relationships with early-stage investors, prepared one-pagers, and connected alumni ventures with follow-on funding and collaborations.
-
-### Investment Analyst Intern - Cactus Capital
-Prepared detailed analysis reports with market insights, competitive positioning, and business viability assessments to support investment committee decisions.
-
-### Branch Manager - Scouts Movement  
-Led a 150+ member branch, managing education programs, logistics, and budgeting using SAP. Built partnerships with local organizations to support community activities.
+*A few projects I've worked on:*
 
 ---
 ## 💻 Technical Skillset <a id="skills"></a>
 
 | Category | Skills |
 | :--- | :--- |
-| **Programming & Data** | Python (Pandas, Scikit-learn), SQL, Java, Streamlit (App Dev), Power BI, Tableau, Excel (Pivot Tables, Power Query, VBA) |
+| **Programming & Data** | Python (Pandas, Scikit-learn), SQL, Java, Streamlit, Power BI, Tableau, Alteryx, Excel (Pivot Tables, Power Query, VBA) |
 | **Machine Learning** | Sentiment Classification, Decision Trees, MLP, SVM |
-| **Automation** | N8N, Airtable, Notion |
+| **AI, Automation & Deployment** | REST APIs, Claude Code, n8n, Netlify, GitHub |
 
 ---
 ## 🚀 Projects <a id="projects"></a>
@@ -225,4 +215,5 @@ Implemented core ML algorithms (Decision Tree, K-Means, Chi-Squared Pruning) fro
 
 ---
 ## 📄 Resume <a id="resume"></a>
-[Download Full Resume (PDF)](https://drive.google.com/file/d/1yHBrlU0xIbWNlJ9Sc5C5NLtd09DvTyqd/view?usp=sharing)
+[Download Full Resume (PDF)] [https://drive.google.com/file/d/10iCzBdPtQXleXRPWRyD9qYYb6Oky6kcy/view?usp=sharing
+](url)
