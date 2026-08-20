@@ -155,8 +155,6 @@ table {
 ---
 ## 💻 Technical Skillset <a id="skills"></a>
 
-| Category | Skills |
-| :--- | :--- |
 | **Programming & Data** | Python (Pandas, Scikit-learn), SQL, Java, Streamlit, Power BI, Tableau, Alteryx, Excel (Pivot Tables, Power Query, VBA) |
 | **Machine Learning** | Sentiment Classification, Decision Trees, MLP, SVM |
 | **AI, Automation & Deployment** | REST APIs, Claude Code, n8n, Netlify, GitHub |
@@ -215,5 +213,4 @@ Implemented core ML algorithms (Decision Tree, K-Means, Chi-Squared Pruning) fro
 
 ---
 ## 📄 Resume <a id="resume"></a>
-[Download Full Resume (PDF)] [https://drive.google.com/file/d/10iCzBdPtQXleXRPWRyD9qYYb6Oky6kcy/view?usp=sharing
-](url)
+[Download Full Resume (PDF)](https://drive.google.com/file/d/10iCzBdPtQXleXRPWRyD9qYYb6Oky6kcy/view?usp=sharing)
